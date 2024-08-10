@@ -47,7 +47,7 @@ Ensure Python 3.x is installed and the necessary libraries are listed in `requir
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/Ganesh2409/Predict_Bike_Sharing_Demand.git
    cd Predict_Bike_Sharing_Demand_Udacity_project1
    ```
 
