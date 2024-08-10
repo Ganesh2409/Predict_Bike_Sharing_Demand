@@ -56,19 +56,6 @@ Ensure Python 3.x is installed and the necessary libraries are listed in `requir
    pip install -r requirements.txt
    ```
 
-### Running the Code
-
-To execute the bike demand prediction script:
-
-```bash
-python Bike_Sharing_Demand.py
-```
-
-To open and run the Jupyter notebook:
-
-```bash
-jupyter notebook Bike_Sharing_Demand.ipynb
-```
 
 ## Project Details
 
@@ -117,6 +104,20 @@ jupyter notebook Bike_Sharing_Demand.ipynb
 
 - **Visualization**: Includes plots of model scores and hyperparameter impacts.
 - **Hyperparameter Table**: Summary of hyperparameters and corresponding scores.
+
+### Running the Code
+
+To execute the bike demand prediction script:
+
+```bash
+python Bike_Sharing_Demand.py
+```
+
+To open and run the Jupyter notebook:
+
+```bash
+jupyter notebook Bike_Sharing_Demand.ipynb
+```
 
 ## Conclusion
 
